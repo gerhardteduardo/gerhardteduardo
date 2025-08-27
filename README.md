@@ -10,8 +10,6 @@
 </div>
 
 - 📚 **Physics Engineering** undergraduate at <a href="https://www.linkedin.com/school/ufrgs/" target="_blank">UFRGS</a>
-- 🎯 Passionate about full-stack development and AI-related topics
-- 🤼‍♂️ **Brazilian Jiu-Jitsu** competitor
 - 🔥 Always eager to learn and explore new technologies
 
 <br/>
