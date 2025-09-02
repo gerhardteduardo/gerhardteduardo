@@ -19,13 +19,13 @@
 ### Languages
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js,html,css,&theme=dark)](https://skillicons.dev)
 </div>
 
 ### Frameworks & Tools
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,django,aws,linux,unity,git,vscode,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwind,vite,nodejs,aws,linux,unity,git,vscode,visualstudio,&theme=dark)](https://skillicons.dev)
 </div>
 
 ### Databases
