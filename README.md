@@ -1,6 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&duration=2650&pause=850&color=326BFF&background=FFFFFF00&width=800&lines=Hello%2C+my+name+is+Eduardo+Gerhardt+;I'm+22+years+old;I'm+from+Brazil;I'm+a+Full-stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&duration=2650&pause=850&color=326BFF&background=FFFFFF00&width=800&lines=Hello%2C+my+name+is+Eduardo+Gerhardt+;I'm+from+Brazil;I'm+a+Software+Engineer;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
+
 <div>
   <a href="https://github.com/gerhardteduardo">
     <img align="right"
@@ -9,29 +10,37 @@
   </a>
 </div>
 
-- 📚 **Physics Engineering** undergraduate at <a href="https://www.linkedin.com/school/ufrgs/" target="_blank">UFRGS</a>
+- 📚 **Engineering Physics** undergraduate at <a href="https://www.linkedin.com/school/ufrgs/" target="_blank">UFRGS</a>
 - 🔥 Always eager to learn and explore new technologies
 
-<br/>
-<br/>
+<br/><br/>
 
 ## 💻 Technology Stack
-### Languages
+
+### ⚙️ Embedded Systems (core focus)
+#### Languages
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js,html,css,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,bash,python,&theme=dark)](https://skillicons.dev)
 </div>
 
-### Frameworks & Tools
+#### Frameworks & Tools
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,react,tailwind,vite,nodejs,aws,linux,unity,git,vscode,visualstudio,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,arduino,vim,cmake,dotnet,&theme=dark)](https://skillicons.dev)
 </div>
 
-### Databases
+### 🌐 Web Development
+#### Languages
 <div align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma,&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,&theme=dark)](https://skillicons.dev)
+</div>
+
+#### Frameworks & Tools
+<div align="left">
+
+  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,figma,aws,nodejs,nextjs,mysql,postgres,&theme=dark)](https://skillicons.dev)
 </div>
 
 ## ✉️ Contact Me
